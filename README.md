@@ -1,4 +1,5 @@
-# hello-world
-This is a test repository
-My name is Muhammad Arsalan Ahmed. I am a student of Computer Science at DHA.Suffa University KARACHI,PAKISTAN.
-Keep discovering new things. #inspiration
+# Introduction
+This is my Introduction
+My name is Muhammad Arsalan Ahmed. I am a graduate in Computer Science fron DHA.Suffa University KARACHI,PAKISTAN. 
+Programming is not my hobby it's my passion.
+Learn to code because it helps you think big. #motivation
